@@ -23,6 +23,7 @@ namespace UtilityProject
             string testingText = txtTestString.Text;
             string matchValue = string.Empty;
             Match m = Regex.Match(testingText, @".*[^-\w]([-\w]{25,})[^-\w]?.*");
+			
             if (m.Success)
             {
                 if (m.Groups != null && m.Groups.Count > 1)
