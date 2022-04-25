@@ -1,0 +1,9 @@
+C:\Users\muhammad.salman\source\repos\UtilityProject\UtilityProject\obj\Debug\UtilityProject.csprojAssemblyReference.cache
+C:\Users\muhammad.salman\source\repos\UtilityProject\UtilityProject\obj\Debug\UtilityProject.Form1.resources
+C:\Users\muhammad.salman\source\repos\UtilityProject\UtilityProject\obj\Debug\UtilityProject.Properties.Resources.resources
+C:\Users\muhammad.salman\source\repos\UtilityProject\UtilityProject\obj\Debug\UtilityProject.csproj.GenerateResource.cache
+C:\Users\muhammad.salman\source\repos\UtilityProject\UtilityProject\obj\Debug\UtilityProject.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.salman\source\repos\UtilityProject\UtilityProject\bin\Debug\UtilityProject.exe
+C:\Users\muhammad.salman\source\repos\UtilityProject\UtilityProject\bin\Debug\UtilityProject.pdb
+C:\Users\muhammad.salman\source\repos\UtilityProject\UtilityProject\obj\Debug\UtilityProject.exe
+C:\Users\muhammad.salman\source\repos\UtilityProject\UtilityProject\obj\Debug\UtilityProject.pdb
